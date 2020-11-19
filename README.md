@@ -15,7 +15,7 @@ University of Denver Cyber Security Bootcamp Red vs Blue Project
 ![alt text](https://github.com/CoreyJay44/Red-VS-Blue-Project/blob/main/Stephen%20Corey%20Jacobs%20Red%20vs%20Blue%20Slides/Slide12.PNG "Slide 12")
 ![alt text](https://github.com/CoreyJay44/Red-VS-Blue-Project/blob/main/Stephen%20Corey%20Jacobs%20Red%20vs%20Blue%20Slides/Slide13.PNG "Slide 13")
 ![alt text](https://github.com/CoreyJay44/Red-VS-Blue-Project/blob/main/Stephen%20Corey%20Jacobs%20Red%20vs%20Blue%20Slides/Slide14.PNG "Slide 14")
-![alt text](https://github.com/CoreyJay44/Red-VS-Blue-Project/blob/main/Stephen%20Corey%20Jacobs%20Red%20vs%20Blue%20Slides/Slide15.PNG "Slide 15")
+![alt text](https://github.com/CoreyJay44/Red-VS-Blue-Project/blob/main/Stephen%20Corey%20Jacobs%20Red%20vs%20Blue%20Slides/Slide15.png "Slide 15")
 ![alt text](https://github.com/CoreyJay44/Red-VS-Blue-Project/blob/main/Stephen%20Corey%20Jacobs%20Red%20vs%20Blue%20Slides/Slide16.PNG "Slide 16")
 ![alt text](https://github.com/CoreyJay44/Red-VS-Blue-Project/blob/main/Stephen%20Corey%20Jacobs%20Red%20vs%20Blue%20Slides/Slide17.PNG "Slide 17")
 ![alt text](https://github.com/CoreyJay44/Red-VS-Blue-Project/blob/main/Stephen%20Corey%20Jacobs%20Red%20vs%20Blue%20Slides/Slide18.PNG "Slide 18")
